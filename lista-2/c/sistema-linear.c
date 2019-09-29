@@ -1,4 +1,5 @@
 /*
+Data: 28/09/2019
 Questão 6: Dado um sistema linear:
 ax + by = c;
 dx + ey = f;

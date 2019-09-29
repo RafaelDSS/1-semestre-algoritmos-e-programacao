@@ -1,4 +1,5 @@
 /*
+Data: 28/09/2019
 Questão 2: Faça um algoritmo que receba 3 notas digitadas
 pelo usuário. Retorne a média ponderada dessas notas.
 */

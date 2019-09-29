@@ -1,4 +1,5 @@
 /*
+Data: 28/09/2019
 Questão 5: Tendo como entrada de dados a altura e o sexo
 de uma pessoa, construa um algoritmo que calcule o peso
 ideal.

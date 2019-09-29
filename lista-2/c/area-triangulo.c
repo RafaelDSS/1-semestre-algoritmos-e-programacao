@@ -1,4 +1,5 @@
 /*
+Data: 28/09/2019
 Questão 3: Faça um algoritmo em que o usuário entre com a
 base e a altura de um triângulo. Retorne a área do mesmo.
 */
