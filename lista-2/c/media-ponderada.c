@@ -12,7 +12,7 @@ int main() {
     printf("Digite tres notas: \n");
     scanf("%f%f%f", &n1, &n2, &n3);
     
-    media = ((n1 * 3) + (n2 * 3) + (n3 * 3)) / 9;
+    media = ((n1 * 10) + (n2 * 10) + (n3 * 10)) / 30;
 
     printf("A media ponderada e: %.1f", media);
 

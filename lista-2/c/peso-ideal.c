@@ -11,7 +11,7 @@ ideal.
 int main() {
     float altura, peso_ideal;
     int sexo;
-    char nome_sexo[2][13] = {"Feminio", "Masculino"};
+    char nome_sexo[2][13] = {"Feminino", "Masculino"};
 
     printf("Altura: ");
     scanf("%f", &altura);
