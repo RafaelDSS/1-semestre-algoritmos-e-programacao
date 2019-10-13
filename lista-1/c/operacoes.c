@@ -16,4 +16,6 @@ int main() {
     printf("Operacao 2: %d\n", b);
     printf("Operacao 3: %d\n", c);
 
+    return 0;
+
 }

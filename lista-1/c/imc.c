@@ -15,5 +15,7 @@ int main() {
 
     imc = pow(peso / altura, 2);
     printf("IMC: %f", imc);
+
+    return 0;
     
 }

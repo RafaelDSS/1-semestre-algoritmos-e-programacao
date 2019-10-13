@@ -17,4 +17,6 @@ int main() {
     printf("Este \ne \num \nprograma \nem \nC \n\n");
     printf("Este \te\t um \tprograma\t em\t C");
 
+    return 0;
+
 }

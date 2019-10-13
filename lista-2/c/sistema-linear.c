@@ -23,4 +23,6 @@ int main() {
     printf("x = %.2f\n", x);
     printf("y = %.2f", y);
 
+    return 0;
+
 }

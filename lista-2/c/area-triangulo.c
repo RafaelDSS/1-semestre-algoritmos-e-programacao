@@ -19,4 +19,6 @@ int main() {
 
     printf("A area do triangulo e: %.2f", area);
 
+    return 0;
+
 }

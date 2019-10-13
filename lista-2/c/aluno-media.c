@@ -18,4 +18,6 @@ int main() {
 
     printf("A media final e: %.1f", media);
 
+    return 0;
+
 }

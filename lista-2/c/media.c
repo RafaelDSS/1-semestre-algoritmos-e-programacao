@@ -16,4 +16,6 @@ int main() {
 
     printf("Sua media e: %.1f", media);
 
+    return 0;
+
 }

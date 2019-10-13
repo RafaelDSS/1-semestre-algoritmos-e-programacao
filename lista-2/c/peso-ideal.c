@@ -26,6 +26,6 @@ int main() {
 
     printf("Peso ideal para o sexo %s e: %.2f", nome_sexo[sexo - 1], peso_ideal);
 
+    return 0;
+    
 }
-
-

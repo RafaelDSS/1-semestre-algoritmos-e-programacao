@@ -11,5 +11,7 @@ int main() {
 
     farenheit = ((9 * celsius) / 5) + 32;
     printf("Farenheit: %.2f", farenheit);
+
+    return 0;
     
 }
