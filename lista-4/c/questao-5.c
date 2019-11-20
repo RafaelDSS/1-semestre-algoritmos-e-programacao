@@ -8,14 +8,14 @@ int main() {
     int qt_negativos=0, soma_positivos=0, valor, value_search, cont=0;
     int valores[50];
 
-    for(int i=0; i < 5; i++) {
+    for(int i=0; i < 50; i++) {
         printf("Digite o %d valor: ", i+1);
         scanf("%d", &valor);
 
         valores[i] = valor;
     }
 
-    for (int i=0; i < 5; i++) {
+    for (int i=0; i < 50; i++) {
         valor = valores[i];
 
         if (valor > 0)

@@ -9,7 +9,7 @@ int main() {
         cont_altura,
         cont_idade;
 
-    for(int i=0; i < 10; i++) {
+    for(int i=0; i < 45; i++) {
         printf("Digite a idade do aluno %d: ", i+1);
         scanf("%f", &idade);
 
