@@ -35,7 +35,7 @@ int main() {
             dupl++;
     }
 
-    printf("Total de numeros dumplicados no array: %d\n", dupl);
+    printf("Total de numeros duplicados no array: %d\n", dupl);
 
     return 0;
 }
